@@ -5,7 +5,7 @@ The decision tree was trained on the dataset and then tested. The plots of the t
 | Varying $N$ | Varying $M$ |
 | :-: | :-: |
 | Discrete Input and Discrete Output | Discrete Input and Discrete Output |
-| ![Varying N Discrete Input and Discrete Output.png](https://github.com/ES335-2024/assignment-1-ml-students-ensemble/blob/master/Q4_plots/Varying%20N%20Discrete%20Input%20and%20Discrete%20Output.png) | ![Varying M Discrete Input and Discrete Output.png](https://github.com/ES335-2024/assignment-1-ml-students-ensemble/blob/master/Q4_plots/Varying%20M%20Discrete%20Input%20and%20Discrete%20Output.png) |
+| ![Varying N Discrete Input and Discrete Output.png](https://github.com/AbhayVG/ES-335_Assignment-1/blob/main/Q4_plots/Varying%20N%20Discrete%20Input%20and%20Discrete%20Output.png) | ![Varying M Discrete Input and Discrete Output.png](https://github.com/AbhayVG/ES-335_Assignment-1/blob/main/Q4_plots/Varying%20M%20Discrete%20Input%20and%20Discrete%20Output.png) |
 | Discrete Input and Real Output | Discrete Input and Real Output |
 | ![Varying N Discrete Input and Real Output.png](https://github.com/ES335-2024/assignment-1-ml-students-ensemble/blob/master/Q4_plots/Varying%20N%20Discrete%20Input%20and%20Real%20Output.png) | ![Varying M Discrete Input and Real Output.png](https://github.com/ES335-2024/assignment-1-ml-students-ensemble/blob/master/Q4_plots/Varying%20M%20Discrete%20Input%20and%20Real%20Output.png) |
 | Real Input and Discrete Output | Real Input and Discrete Output |
